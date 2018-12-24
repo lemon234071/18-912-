@@ -1,7 +1,7 @@
 # 18年912真题回忆
 ## DSA:70'  
 ### 判断题(12*2'):  
-	
+	add me to contributors' list.
 	* 
 	*  
 
